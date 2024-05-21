@@ -1,3 +1,4 @@
+Updates to keyboard shortcuts … On Thursday, August 1, 2024, Drive keyboard shortcuts will be updated to give you first-letters navigation.Learn more
 test_console.py
 #!/usr/bin/python3
 """Defines unittests for console.py.
